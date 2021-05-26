@@ -1,0 +1,35 @@
+body {
+    font-family: 'Roboto', sans-serif !important;
+}
+
+.container {
+    padding: 0;
+}
+.alert {
+    font-weight: 500;
+}
+label {
+    font-weight: bold;
+}
+.form-message {
+    height: 80px;
+}
+.p-note {
+    font-size: 0.8rem;
+    color: #9c9c9c;
+    font-weight: bold;
+}
+
+.method-payment-box {
+    background-color: #6b757d;
+    margin-top: 15px;
+    padding: 6px 15px;
+}
+
+.method-payment-box label svg {
+    color: white;
+}
+
+input::placeholder {
+    font-weight: 500;
+}
